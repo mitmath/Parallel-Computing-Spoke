@@ -25,7 +25,7 @@ By the end of the course students will be able to write portable and performant 
 
 ## Grading
 
-- 6 Homeworks:  90%
+- 6 Homeworks:  90%  (no homeworks will be dropped)
 
 - Class Participation: 10%
 
