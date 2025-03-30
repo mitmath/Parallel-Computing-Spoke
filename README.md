@@ -9,7 +9,7 @@ By the end of the course students will be able to write portable and performant 
 
 **Lectures:** Mondays, Wednesdays, and Fridays 11 AM - 12 AM in room 36-144.
 
-**Prerequisites:** 18.03, 18.06, or equivalents, and some programming experience. You should have taken the [first half-semester numerical "hub" 18.S190/16.S090](https://github.com/mitmath/numerical_hub). Familiarity with Julia is assumed.
+**Prerequisites:** 18.03, 18.06, or equivalents, and some programming experience. Though not required, you should have taken  the [first half-semester numerical "hub" 18.S190/16.S090](https://github.com/mitmath/numerical_hub). Familiarity with Julia is assumed.
 
 **Instructors:** A. Edelman
 
