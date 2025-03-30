@@ -3,7 +3,7 @@
 
 We cover  the methods available to write high performance parallel codes in Julia, including threading, GPU acceleration, and distributed programming with MPI and Dagger.jl. 
 
-By the end of the course students will be able to use Julia to write write portable and performant code that scales from their laptop CPUs to GPU-enabled supercomputer clusters like NERSC Perlmutter. These skills will be illustrated with a set of applications including scientific codes like Gray-Scott, and training large scale AI applications like LLMs.
+By the end of the course students will be able to write portable and performant code that scales from their laptop CPUs to GPU-enabled supercomputer clusters like NERSC Perlmutter. These skills will be illustrated with a set of applications including scientific codes like Gray-Scott, and training large scale AI applications like LLMs.
 
 ## Logistics
 
