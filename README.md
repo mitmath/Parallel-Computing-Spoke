@@ -29,6 +29,8 @@ By the end of the course students will be able to write portable and performant 
 
 - Class Participation: 10%
 
+- (we decided not to a class project this year)
+
 ## Homeworks at a glance
 
 | Homework                                                        | Assigned | Due    | Topic                                              | Solution                                                                             |
