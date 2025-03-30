@@ -1,4 +1,5 @@
-# Interdisciplinary Numerical Methods: Parallelism in Julia "Spoke" 18.S192/16.S098
+# Interdisciplinary Numerical Methods: Parallelism in Julia "Spoke" 18.S192/16.S098 (2025)
+(aka Undergraduate Parallel Computing)
 
 This course covers the the methods available to write high performance parallel codes in Julia, including threading, GPU acceleration, and distributed programming with MPI and Dagger.jl. 
 
