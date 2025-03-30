@@ -27,7 +27,7 @@ By the end of the course students will be able to write portable and performant 
 
 - 6 Homeworks:  90%  (no homeworks will be dropped)
 
-- Class Participation: 10%
+- Class Participation: 10% (don't ask us what this means, the class is small, we'll know if you are participating)
 
 - (we decided not to do a class project this year)
 
