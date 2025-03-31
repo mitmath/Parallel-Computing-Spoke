@@ -19,7 +19,7 @@ By the end of the course students will be able to write portable and performant 
 - Raye on Tuesdays and Thursdays 12:45PM - 1:45PM in 32-G780. A map can be found here: [Map](https://www.csail.mit.edu/sites/default/files/resources/maps/7G/G780.gif), be sure you take the Gates tower elevators **not** the Dreyfoos tower elevators!!!
 
 
-**Lecture Recordings:** ( Hopefully) Available on Canvas under the Panopto Video tab. Should be published the evening after each lecture. 
+**Lecture Recordings:** The room we were assigned unfortunately does not have recording capability.
 
 **Links:** Worth bookmarking:
 
