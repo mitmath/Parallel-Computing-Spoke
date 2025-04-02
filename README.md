@@ -36,18 +36,16 @@ By the end of the course students will be able to use Julia to write write porta
 
 ## Lectures at a glance (Lectures being updated.)
 
-### Lecture 1 (March 31)
-* Overview and syllabus
-* Flynn's Taxonomy, pipelining, threading vs tasking, hyperthreading
+### Week 1 - Overview of Parallel Computing
 
-### Lecture 2 (April 2)
+### Week 2 - Parallelism Concepts and Julia Performance
 
-### Lecture 3 (April 4)
+### Week 3 - Multithreading and Multitasking
 
-### Lecture 4 (April 7)
+### Week 4 - GPU Computing
 
-### Lecture 5 (April 9)
+### Week 5 - GPU Computing
 
-### Lecture 6 (April 11)
+### Week 6 - Distributed Computing (MPI + Dagger.jl)
 
-### Lecture 7 (April 14)
+### Week 7
