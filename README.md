@@ -18,7 +18,7 @@ By the end of the course students will be able to use Julia to write write porta
 - Raye on Tuesdays and Thursdays 12:45PM - 1:45PM in 32-G780. A map can be found here: [Map](https://www.csail.mit.edu/sites/default/files/resources/maps/7G/G780.gif), be sure you take the Gates tower elevators **not** the Dreyfoos tower elevators!!!
 
 
-**Lecture Recordings:** ( Hopefully) Available on Canvas under the Panopto Video tab. Should be published the evening after each lecture. 
+**Lecture Recordings:** Unfortunately we are not teaching in a recorded classroom this semester.
 
 **Links:** Worth bookmarking:
 
