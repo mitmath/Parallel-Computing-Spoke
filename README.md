@@ -37,6 +37,10 @@ By the end of the course students will be able to use Julia to write write porta
 ## Lectures at a glance (Lectures being updated.)
 
 ### Week 1 - Overview of Parallel Computing
+#### Homework: [Homework 0 due April 7](homework/HW0.pdf)
+#### Lectures:
+- [Lecture 1](lectures/Undergrad%20Parallel%20%20Computing_%20Lecture%201%203_31_2025.pdf)
+- [Lecture 2](lectures/Undergrad%20Parallel%20Lecture%202%204_2_2025.pdf)
 
 ### Week 2 - Parallelism Concepts and Julia Performance
 
