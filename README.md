@@ -15,7 +15,7 @@ By the end of the course students will be able to use Julia to write write porta
 **Teaching Assistants:** Raye Kimmerer, Eveylne Ringoot, Rabab Alomairy
 
 **Office Hours:** 
-- Raye on Tuesdays and Thursdays 12:45PM - 1:45PM in 32-G780. A map can be found here: [Map](https://www.csail.mit.edu/sites/default/files/resources/maps/7G/G780.gif), be sure you take the Gates tower elevators **not** the Dreyfoos tower elevators!!!
+- Raye on Tuesdays and Thursdays 12:45PM - 1:45PM on Zoom room `rayegun`.
 
 
 **Lecture Recordings:** Unfortunately we are not teaching in a recorded classroom this semester.
