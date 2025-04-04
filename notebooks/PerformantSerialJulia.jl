@@ -47,6 +47,17 @@ VERSION
 # ╔═╡ e1852c8d-4028-409e-8e1a-8253bbd6e6a5
 html"<button onclick='present()'>Toggle presentation mode</button>"
 
+# ╔═╡ e611b52c-8d8c-41e8-a5d1-765c0d4306be
+md"""
+# What makes Julia code slow?
+
+### Type instability
+##### Type instability refers to a situation where the types of variables are *not* determined by the types of inputs, but instead by *values* of inputs.
+
+### Allocations
+##### Due to decisions in the standard libraries it is easy to accidentally allocate lots of memory, especially in hot loops. But this isn't *always* bad!
+"""
+
 # ╔═╡ 9331fad2-f29e-11eb-0349-477bd2e7e412
 md"""
 # Analysis toolbox
@@ -251,7 +262,7 @@ function matmul1(A, B)
 	m, p = size(A, 1), size(B, 2)
 	C = zeros(m, p)
 	for i = 1:m, j = 1:p
-		@views C[i, j] = sum(A[i, :] .* B[:, j])
+		C[i, j] = sum(A[i, :] .* B[:, j])
 	end
 	return C
 end
@@ -1013,7 +1024,8 @@ version = "17.4.0+2"
 # ╠═5de2a556-f3af-4a64-a5c6-32d30f758be3
 # ╠═1ac5ba38-0eef-41bb-8f9c-3bbf057cae21
 # ╟─e1852c8d-4028-409e-8e1a-8253bbd6e6a5
-# ╟─9331fad2-f29e-11eb-0349-477bd2e7e412
+# ╟─e611b52c-8d8c-41e8-a5d1-765c0d4306be
+# ╠═9331fad2-f29e-11eb-0349-477bd2e7e412
 # ╟─3d98e7db-c643-4500-987d-4a225e55b2a5
 # ╠═b4f2a99e-de45-49d2-be86-9f2d03357462
 # ╟─068b3e45-5105-48aa-a547-536470f6abda
