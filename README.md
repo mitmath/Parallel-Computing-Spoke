@@ -41,6 +41,7 @@ By the end of the course students will be able to use Julia to write write porta
 #### Lectures:
 - [Lecture 1](lectures/Undergrad%20Parallel%20%20Computing_%20Lecture%201%203_31_2025.pdf)
 - [Lecture 2](lectures/Undergrad%20Parallel%20Lecture%202%204_2_2025.pdf)
+- [Lecture 3](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/PerformantSerialJulia.html) Pluto Notebook
 
 ### Week 2 - Parallelism Concepts and Julia Performance
 
