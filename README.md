@@ -39,16 +39,15 @@ By the end of the course students will be able to use Julia to write write porta
 ### Week 1 - Overview of Parallel Computing
 #### Homework: [Homework 0 due April 7](homework/HW0.pdf)
 #### Lectures:
-- [Lecture 1](lectures/Undergrad%20Parallel%20%20Computing_%20Lecture%201%203_31_2025.pdf)
-- [Lecture 2](lectures/Undergrad%20Parallel%20Lecture%202%204_2_2025.pdf)
-- [Lecture 3](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/PerformantSerialJulia.html) Pluto Notebook
+
 
 | #   | Day | Date  | Lecturer          | Topic                                                | Slides / Notes                                                                                                                                    | Notebooks                                                                                                                                                                                                                                                                                                                                                                |
 | --- | --- | ----- | ----------------- | ---------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 1  |   M  |  3/31     |      Edelman              |              | [Intro](https://docs.google.com/presentation/d/1jkJqieNuWh4_Yx6Ura3xiGUc0NmaDK6a6J_zQJfQoEU/edit?usp=sharing)                                                                         |                                                                                                                              
-
+| 1  |   M  |  3/31     |      Edelman              |    Parallel Computing may not be what you think, top500, matmul vs matadd | [Intro](https://docs.google.com/presentation/d/1jkJqieNuWh4_Yx6Ura3xiGUc0NmaDK6a6J_zQJfQoEU/edit?usp=sharing)                                                                    |                                                                                                                              
+| 2  |   W  |  4/2     |      Edelman              | If you live with one programming language, you dont know what you are missing   | [Slides](https://docs.google.com/presentation/d/16Zf_SnDNlUmcCdqoaDeyAQmmqpxC66k646DCm3BXt1o/edit?usp=sharing)                                                                    |   
+| 3  |   F  |  4/4     |      Kimmerer              |  Allocations and other serial performance tips | [PerformantSerial Julia Pluto Notebook](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/PerformantSerialJulia.html)                                                                    |   
 ### Week 2 - Parallelism Concepts and Julia Performance
-
+| 4 |   M  |  4/7    |      Edelman              |   Parallel Prefix | |    
 ### Week 3 - Multithreading and Multitasking
 
 ### Week 4 - GPU Computing
