@@ -48,10 +48,11 @@ By the end of the course students will be able to use Julia to write write porta
 | 2  |   W  |  4/2     |      Edelman              | If you live with one programming language, you dont know what you are missing   | [Slides](https://docs.google.com/presentation/d/16Zf_SnDNlUmcCdqoaDeyAQmmqpxC66k646DCm3BXt1o/edit?usp=sharing)                                                                    |   
 | 3  |   F  |  4/4     |      Kimmerer              |  Allocations and other serial performance tips | | [PerformantSerial Julia Pluto Notebook](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/PerformantSerialJulia.html)    
 |    |       |          |                            |  **Week 2 - Parallelism Concepts and Julia Performance**| 
+| 4 |   M  |  4/7    |      Edelman              |   Parallel Prefix | 
 |    |       |          |                            |  **Week 3 -  Multithreading and Multitasking**|    
 |    |       |          |                            |  **Week 4 - GPU Computing**|    
 |    |       |          |                            |  **Week 5 - GPU Computing**|    
 |    |       |          |                            |  **Week 6 - Distributed Computing (MPI + Dagger.jl)**|    
 |    |       |          |                            |  **Week 7 - Parallelism Concepts and Julia Performance**|    
- | | 4 |   M  |  4/7    |      Edelman              |   Parallel Prefix |     
+    
 
