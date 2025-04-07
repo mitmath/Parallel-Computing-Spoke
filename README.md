@@ -48,7 +48,7 @@ By the end of the course students will be able to use Julia to write write porta
 | 2  |   W  |  4/2     |      Edelman              | If you live with one programming language, you dont know what you are missing   | [Slides](https://docs.google.com/presentation/d/16Zf_SnDNlUmcCdqoaDeyAQmmqpxC66k646DCm3BXt1o/edit?usp=sharing)||                                                             |   
 | 3  |   F  |  4/4     |      Kimmerer              |  Allocations and other serial performance tips | | [PerformantSerial Julia Pluto Notebook](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/PerformantSerialJulia.html)    
 |    |       |          |                            |  **Week 2 - Parallelism Concepts and Julia Performance**| 
-| 4 |   M  |  4/7    |      Edelman              |   If you see an algorithm that doesn't look like it should be parallel it's probably Parallel Prefix |  | [reduce,prefix pluto](https://mitmath.github.io/18337/lecture9/reduce_prefix.html)|
+| 4 |   M  |  4/7    |      Edelman              |   If you see an algorithm that doesn't look like it should be parallel it's probably Parallel Prefix | [slides](https://github.com/mitmath/18337/blob/master/lecture10/prefix.pptx)  | [reduce,prefix pluto](https://mitmath.github.io/18337/lecture9/reduce_prefix.html)|
 |    |       |          |                            |  **Week 3 -  Multithreading and Multitasking**|    
 |    |       |          |                            |  **Week 4 - GPU Computing**|    
 |    |       |          |                            |  **Week 5 - GPU Computing**|    
