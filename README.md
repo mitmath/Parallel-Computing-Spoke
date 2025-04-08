@@ -33,6 +33,7 @@ By the end of the course students will be able to use Julia to write write porta
 | Homework                                                        | Assigned | Due    | Topic                                              | Solution                                                                             |
 | --------------------------------------------------------------- | -------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------------ | 
 | [HW0](homework/HW0.pdf) | April 2 | April 7 @ 11:59PM | Logistics |
+| [HW1](homework/HW1.pdf) | April 7 | April 14 @ 11:59PM | Threadin |
 
 ## Lectures at a glance (Lectures being updated.)
 
