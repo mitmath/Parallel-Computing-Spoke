@@ -30,10 +30,10 @@ By the end of the course students will be able to use Julia to write write porta
 
 ## Homeworks at a glance
 
-| Homework                                                        | Assigned | Due    | Topic                                              | Solution                                                                             |
-| --------------------------------------------------------------- | -------- | ------ | -------------------------------------------------- | ------------------------------------------------------------------------------------ | 
+| Homework                                                        | Assigned | Due    | Topic                                              | Notes | Solution                                                                             |
+| --------------------------------------------------------------- | -------- | ------ | -------------------------------------------------- |------| ------------------------------------------------------------------------------------ | 
 | [HW0](homework/HW0.pdf) | April 2 | April 7 @ 11:59PM | Logistics |
-| [HW1](homework/HW1.pdf) | April 7 | April 14 @ 11:59PM | Threadin |
+| [HW1](homework/HW1.pdf) | April 7 | April 14 @ 11:59PM | Threading | Updated 9/4|
 
 ## Lectures at a glance (Lectures being updated.)
 
@@ -50,6 +50,7 @@ By the end of the course students will be able to use Julia to write write porta
 | 3  |   F  |  4/4     |      Kimmerer              |  Allocations and other serial performance tips | | [PerformantSerial Julia Pluto Notebook](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/PerformantSerialJulia.html)    
 |    |       |          |                            |  **Week 2 - Parallelism Concepts and Julia Performance**| 
 | 4 |   M  |  4/7    |      Edelman              |   If you see an algorithm that doesn't look like it should be parallel it's probably Parallel Prefix | [Slides](https://github.com/mitmath/18337/blob/master/lecture10/prefix.pptx)  | [reduce,prefix pluto](https://mitmath.github.io/18337/lecture9/reduce_prefix.html)|
+| 5 |  W  |   4/9     |   Kimmerer, Ringoot       | Multithreading, hyperthreading, and pipelining   |   [Slides part 1](lectures/Lecture 04_09_part1.pdf)
 |    |       |          |                            |  **Week 3 -  Multithreading and Multitasking**|    
 |    |       |          |                            |  **Week 4 - GPU Computing**|    
 |    |       |          |                            |  **Week 5 - GPU Computing**|    
