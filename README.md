@@ -38,7 +38,8 @@ By the end of the course students will be able to use Julia to write write porta
 ## Lectures at a glance (Lectures being updated.)
 
 
-#### Homework: [Homework 0 due April 7](homework/HW0.pdf)
+#### Homework: [Homework 0 due April 7](homework/HW0.pdf) - submit on canvas!
+#### Homework: [Homework 0 due April 14](homework/HW1.pdf) - submit on gradescope!
 #### Lectures:
 
 
