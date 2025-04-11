@@ -51,7 +51,7 @@ By the end of the course students will be able to use Julia to write write porta
 | 3  |   F  |  4/4     |      Kimmerer              |  Allocations and other serial performance tips | | [PerformantSerial Julia Pluto Notebook](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/PerformantSerialJulia.html)    
 |    |       |          |                            |  **Week 2 - Parallelism Concepts and Julia Performance**| 
 | 4 |   M  |  4/7    |      Edelman              |   If you see an algorithm that doesn't look like it should be parallel it's probably Parallel Prefix | [Slides](https://github.com/mitmath/18337/blob/master/lecture10/prefix.pptx)  | [reduce,prefix pluto](https://mitmath.github.io/18337/lecture9/reduce_prefix.html)|
-| 5 |  W  |   4/9     |   Kimmerer, Ringoot       | Multithreading, hyperthreading, and pipelining   |   ([Slides part 1](https://github.com/mitmath/Parallel-Computing-Spoke/blob/main/lectures/Lecture%2004_09_part1.pdf))
+| 5 |  W  |   4/9     |   Kimmerer, Ringoot       | Multithreading, hyperthreading, and pipelining   |   ([Slides part 1](https://github.com/mitmath/Parallel-Computing-Spoke/blob/main/lectures/Lecture%2004_09_part1.pdf)) | [threading pluto notebook](notebooks/ThreadingNotebook.jl) |
 |    |       |          |                            |  **Week 3 -  Multithreading and Multitasking**|    
 |    |       |          |                            |  **Week 4 - GPU Computing**|    
 |    |       |          |                            |  **Week 5 - GPU Computing**|    
