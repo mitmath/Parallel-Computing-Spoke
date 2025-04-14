@@ -12,7 +12,7 @@ By the end of the course students will be able to use Julia to write write porta
 
 **Instructors:** A. Edelman
 
-**Teaching Assistants:** Raye Kimmerer, Eveylne Ringoot, Rabab Alomairy
+**Teaching Assistants:** Raye Kimmerer (kimmerer@mit.edu), Eveylne Ringoot, Rabab Alomairy
 
 **Office Hours:** 
 - Raye on Tuesdays and Thursdays 12:45PM - 1:45PM on Zoom room `rayegun`.
