@@ -52,7 +52,9 @@ By the end of the course students will be able to use Julia to write write porta
 |    |       |          |                            |  **Week 2 - Parallelism Concepts and Julia Performance**| 
 | 4 |   M  |  4/7    |      Edelman              |   If you see an algorithm that doesn't look like it should be parallel it's probably Parallel Prefix | [Slides](https://github.com/mitmath/18337/blob/master/lecture10/prefix.pptx)  | [reduce,prefix pluto](https://mitmath.github.io/18337/lecture9/reduce_prefix.html)|
 | 5 |  W  |   4/9     |   Kimmerer, Ringoot       | Multithreading, hyperthreading, and pipelining   |   [Slides part 1](https://github.com/mitmath/Parallel-Computing-Spoke/blob/main/lectures/Lecture%2004_09_part1.pdf) [Slides part 2](lectures/04_09_2025%20-%20Threading.pdf)| [threading pluto notebook](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/ThreadingNotebook.html), [JuliaParallel Notebook](https://github.com/JuliaParallel/julia-hpc-tutorial-sc24/blob/main/parts/multithreading/multithreading.ipynb) |
-|    |       |          |                            |  **Week 3 -  Multithreading and Multitasking**|    
+| 6 |  F  |   4/11    |   Edelman       | Prefix Continued  |    |
+|    |       |          |                            |  **Week 3 -  Multithreading and Multitasking**|   
+| 7 |  M |   4/14   |       |  |    |
 |    |       |          |                            |  **Week 4 - GPU Computing**|    
 |    |       |          |                            |  **Week 5 - GPU Computing**|    
 |    |       |          |                            |  **Week 6 - Distributed Computing (MPI + Dagger.jl)**|    
