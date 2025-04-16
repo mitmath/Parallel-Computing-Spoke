@@ -49,11 +49,11 @@ By the end of the course students will be able to use Julia to write write porta
 | 1  |   M  |  3/31     |      Edelman              |    Parallel Computing may not be what you think, [top500](https://top500.org/), matmul vs matadd | [Intro](https://docs.google.com/presentation/d/1jkJqieNuWh4_Yx6Ura3xiGUc0NmaDK6a6J_zQJfQoEU/edit?usp=sharing)|  [Language Horse Race](https://github.com/mitmath/JuliaComputation/blob/Fall24/notebooks/3_Julia%20is%20fast.ipynb)  |
 | 2  |   W  |  4/2     |      Edelman              | If you live with one programming language, you dont know what you are missing   | [Slides](https://docs.google.com/presentation/d/16Zf_SnDNlUmcCdqoaDeyAQmmqpxC66k646DCm3BXt1o/edit?usp=sharing)||                                                             |   
 | 3  |   F  |  4/4     |      Kimmerer              |  Allocations and other serial performance tips | | [PerformantSerial Julia Pluto Notebook](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/PerformantSerialJulia.html)    
-|    |       |          |                            |  **Week 2 - Parallelism Concepts and Julia Performance**| 
+|    |       |          |                            |  **Week 2 - Parallelism Concepts,Julia Performance, and Multithreading **| 
 | 4 |   M  |  4/7    |      Edelman              |   If you see an algorithm that doesn't look like it should be parallel it's probably Parallel Prefix | [Slides](https://github.com/mitmath/18337/blob/master/lecture10/prefix.pptx)  | [reduce,prefix pluto](https://mitmath.github.io/18337/lecture9/reduce_prefix.html)|
 | 5 |  W  |   4/9     |   Kimmerer, Ringoot       | Multithreading, hyperthreading, and pipelining   |   [Slides part 1](https://github.com/mitmath/Parallel-Computing-Spoke/blob/main/lectures/Lecture%2004_09_part1.pdf) [Slides part 2](lectures/04_09_2025%20-%20Threading.pdf)| [threading pluto notebook](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/ThreadingNotebook.html), [JuliaParallel Notebook](https://github.com/JuliaParallel/julia-hpc-tutorial-sc24/blob/main/parts/multithreading/multithreading.ipynb) |
 | 6 |  F  |   4/11    |   Edelman       | Prefix Continued  |    |
-|    |       |          |                            |  **Week 3 -  Multithreading and Multitasking**|   
+|    |       |          |                            |  **Week 3 - Attaching to a  supercomputer, Multitasking & Intro GPU  **|   
 | 7 |  M |   4/14   | Kimmerer, Edelman      | Perlmutter, GPU pictures |    |
 | 8 | W | 4/16 | Alomairy | GPU background | [gpu slides](https://docs.google.com/presentation/d/1GG7PMXWD4A5citjWOnRm881pS5NtCyRc/edit#slide=id.p1)
 |    |       |          |                            |  **Week 4 - GPU Computing**|    
