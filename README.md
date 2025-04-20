@@ -34,12 +34,8 @@ By the end of the course students will be able to use Julia to write write porta
 | --------------------------------------------------------------- | -------- | ------ | -------------------------------------------------- |------| ------------------------------------------------------------------------------------ | 
 | [HW0](homework/HW0.pdf) | April 2 | April 7 @ 11:59PM | Logistics |
 | [HW1](homework/HW1.pdf) | April 7 | April 14 @ 11:59PM | Threading | Updated 9/4|
+| [HW2](homework/HW2.pdf) / [Perlmutter Instructions](homework/Perlmutter_Instructions.pdf) | April 20 | April 28 @ 11:59PM | Threading | |
 
-## Lectures at a glance (Lectures being updated.)
-
-
-#### Homework: [Homework 0 due April 7](homework/HW0.pdf) - submit on canvas!
-#### Homework: [Homework 1 due April 14](homework/HW1.pdf) - submit on gradescope!
 #### Lectures:
 
 
