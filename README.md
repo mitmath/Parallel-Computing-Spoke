@@ -52,7 +52,7 @@ By the end of the course students will be able to use Julia to write write porta
 |    |       |          |                            |  **Week 3 - Attaching to a  supercomputer, Multitasking & Intro GPU**|   
 | 7 |  M |   4/14   | Kimmerer, Edelman      | Perlmutter, GPU pictures |    |
 | 8 | W | 4/16 | Alomairy | GPU background |[colab link](https://colab.research.google.com/drive/1d5DhDmU6-0YpmB6MNCoc_TlzTxwQs8Uw?usp=sharing) [gpu slides](https://docs.google.com/presentation/d/1GG7PMXWD4A5citjWOnRm881pS5NtCyRc/edit#slide=id.p1)
-| 9 | F | 4/18 | Alomairy, Ringoot| GPU software | | |
+| 9 | F | 4/18 | Alomairy, Ringoot| GPU software | [Slides](https://docs.google.com/presentation/d/1GMYKndXzzzzYwu6LUqe0Ga6wPnd9R72w/edit#slide=id.p2) | |
 | 10 | W | 4/23 | Alomairy | GPU Acceleration |  [Slides](https://docs.google.com/presentation/d/1GqkKC3f7f1dcg-X1wcxQd-KYEoQgD-lP/edit#slide=id.p1)| |
 |    |       |          |                            |  **Week 4 - GPU Computing**|    
 |    |       |          |                            |  **Week 5 - GPU Computing**|    
