@@ -50,7 +50,7 @@ By the end of the course students will be able to use Julia to write write porta
 | 5 |  W  |   4/9     |   Kimmerer, Ringoot       | Multithreading, hyperthreading, and pipelining   |   [Slides part 1](https://github.com/mitmath/Parallel-Computing-Spoke/blob/main/lectures/Lecture%2004_09_part1.pdf) [Slides part 2](lectures/04_09_2025%20-%20Threading.pdf)| [threading pluto notebook](https://mitmath.github.io/Parallel-Computing-Spoke/notebooks/ThreadingNotebook.html), [JuliaParallel Notebook](https://github.com/JuliaParallel/julia-hpc-tutorial-sc24/blob/main/parts/multithreading/multithreading.ipynb) |
 | 6 |  F  |   4/11    |   Edelman       | Prefix Continued  |    |
 |    |       |          |                            |  **Week 3 - Attaching to a  supercomputer, Multitasking & Intro GPU**|   
-| 7 |  M |   4/14   | Kimmerer, Edelman      | Perlmutter, GPU pictures |    |
+| 7 |  M |   4/14   | Kimmerer, Edelman      | Perlmutter, GPU pictures | [A100 Architecture White Paper](https://images.nvidia.com/aem-dam/en-zz/Solutions/data-center/nvidia-ampere-architecture-whitepaper.pdf)   |
 | 8 | W | 4/16 | Alomairy | GPU background |[colab link](https://colab.research.google.com/drive/1d5DhDmU6-0YpmB6MNCoc_TlzTxwQs8Uw?usp=sharing) [gpu slides](https://docs.google.com/presentation/d/1GG7PMXWD4A5citjWOnRm881pS5NtCyRc/edit#slide=id.p1)
 | 9 | F | 4/18 | Alomairy, Ringoot| GPU software | [Slides](https://docs.google.com/presentation/d/1GMYKndXzzzzYwu6LUqe0Ga6wPnd9R72w/edit#slide=id.p2) | |
 |    |       |          |                            |  **Week 4 - GPU Computing**| 
