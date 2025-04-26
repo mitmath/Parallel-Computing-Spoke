@@ -60,7 +60,10 @@ By the end of the course students will be able to use Julia to write write porta
 | 12 | M | 4/28 |  |  |   |
 | 13 | W | 4/30 |  |  |   |
 | 14 | F | 5/2 |  |  |   |
-|    |       |          |                            |  **Week 6 - Distributed Computing (MPI + Dagger.jl)**|    
+|    |       |          |                            |  **Week 6 - Distributed Computing (MPI + Dagger.jl)**|  
+| 15 | M | 5/5 |  |  |   |
+| 16 | W | 5/7 |  |  |   |
+| 17 | F | 5/9|  |  |   |
 |    |       |          |                            |  **Week 7 - Parallelism Concepts and Julia Performance**|    
-    
+ | 18 | M | 5/12 |  |  |   |   
 
