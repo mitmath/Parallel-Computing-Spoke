@@ -65,5 +65,5 @@ By the end of the course students will be able to use Julia to write write porta
 | 16 | W | 5/7 |  |  |   |
 | 17 | F | 5/9|  |  |   |
 |    |       |          |                            |  **Week 7 - Parallelism Concepts and Julia Performance**|    
- | 18 | M | 5/12 |  |  |   |   
+ | 18 | M | 5/12 |  |  Class Party?  |   |   
 
