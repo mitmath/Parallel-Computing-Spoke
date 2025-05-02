@@ -60,7 +60,7 @@ By the end of the course students will be able to use Julia to write write porta
 | 12 | M | 4/28 | Kimmerer / Edelman | The Julia Dream | [Notebook](notebooks/The%20Julia%20HPC%20dream.ipynb) |
 | 13 | W | 4/30 | Edelman | Types in Julia | [Notebook](https://mit-c25-fall23.netlify.app/notebooks/7_ptypes.jl)  |
 | 13 | W | 4/30 |  |  |   |
-| 14 | F | 5/2 |  |  |   |
+| 14 | F | 5/2 | Ringoot | GPU memory | [Slides](https://docs.google.com/presentation/d/1PYBEPSc7uB0zpojgmQhY5bZTHzCevZ3cVfs_DSwaEfk/edit?usp=sharing)  |
 |    |       |          |                            |  **Week 6 - Distributed Computing (MPI + Dagger.jl)**|  
 | 15 | M | 5/5 |  |  |   |
 | 16 | W | 5/7 |  |  |   |
