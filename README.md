@@ -57,7 +57,8 @@ By the end of the course students will be able to use Julia to write write porta
 | 10 | W | 4/23 | Alomairy | GPU Acceleration |  [Slides](https://docs.google.com/presentation/d/1GqkKC3f7f1dcg-X1wcxQd-KYEoQgD-lP/edit#slide=id.p1)| |
 | 11 | F | 4/25 | Ringoot | GPU Acceleration |  [Slides](https://docs.google.com/presentation/d/1zqjzfpyOJOEiCR6sjz39_AlcaBZvccbV/edit?usp=sharing&ouid=111707541660722014594&rtpof=true&sd=true)| |
 |    |       |          |                            |  **Week 5 - GPU Computing**|    
-| 12 | M | 4/28 | Edelman, Kimmerer  |  |   |
+| 12 | M | 4/28 | Kimmerer / Edelman | The Julia Dream | [Notebook](notebooks/The%20Julia%20HPC%20dream.ipynb) |
+| 13 | W | 4/30 | Edelman | Types in Julia | [Notebook](https://mit-c25-fall23.netlify.app/notebooks/7_ptypes.jl)  |
 | 13 | W | 4/30 |  |  |   |
 | 14 | F | 5/2 |  |  |   |
 |    |       |          |                            |  **Week 6 - Distributed Computing (MPI + Dagger.jl)**|  
