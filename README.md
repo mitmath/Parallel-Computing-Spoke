@@ -63,9 +63,9 @@ By the end of the course students will be able to use Julia to write write porta
 | 13 | W | 4/30 |  |  |   |
 | 14 | F | 5/2 | Ringoot | GPU memory | [Slides](https://docs.google.com/presentation/d/1PYBEPSc7uB0zpojgmQhY5bZTHzCevZ3cVfs_DSwaEfk/edit?usp=sharing)  |
 |    |       |          |                            |  **Week 6 - Distributed Computing (MPI + Dagger.jl)**|  
-| 15 | M | 5/5 |  |  |   |
-| 16 | W | 5/7 |  |  |   |
-| 17 | F | 5/9|  |  |   |
+| 15 | M | 5/5 |  Samaroo | Dagger 1  |   |
+| 16 | W | 5/7 | Samaroo | Dagger 2 |   |
+| 17 | F | 5/9|  Samaroo|  Dagger 3|   |
 |    |       |          |                            |  **Week 7 - Parallelism Concepts and Julia Performance**|    
  | 18 | M | 5/12 |  |  Class Party?  |   |   
 
